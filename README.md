@@ -1,5 +1,3 @@
 # Ronny Rasi, DDS × Vessel Archive
 
-Static, responsive local-marketing proposal website. Deploy the repository root with GitHub Pages. No build, keys or form backend required.
-
-Revised October 20, 2026. Public sources are linked in the presentation; imagery is credited to the practice.
+A seven-page, static prospect presentation. Open index.html or serve this folder. Use Next/Back, arrow keys or touch swipe. Public source links are included on the relevant pages.
