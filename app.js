@@ -1,0 +1,1 @@
+const p=document.getElementById('progress');function update(){const h=document.documentElement.scrollHeight-innerHeight;p.style.width=(h>0?scrollY/h*100:0)+'%'}addEventListener('scroll',update,{passive:true});addEventListener('resize',update);update();
