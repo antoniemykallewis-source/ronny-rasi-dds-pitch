@@ -4,3 +4,5 @@
 .film-grid{grid-template-columns:repeat(3,minmax(0,1fr))}
 .film h3,.film em{min-width:0;overflow-wrap:anywhere}
 @media(max-width:700px){.hero-art:before{inset:2px;transform:none}.hero-art:after{right:0;top:0}.portrait-frame{width:100%;max-width:320px;transform:rotate(2deg);box-shadow:8px 10px 0 var(--ink)}.sticker{right:14px}.film-grid{grid-template-columns:minmax(0,1fr)}.film h3{font-size:clamp(32px,10vw,48px);max-width:100%}.film em{max-width:100%}.checks .source-link{display:inline-block;max-width:100%;overflow-wrap:anywhere}}
+
+.hero-art:before{transform:none}
